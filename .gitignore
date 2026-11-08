@@ -1,0 +1,14 @@
+# Recorded market data and replay output (large, regenerate with `make record`)
+/data/
+
+# Builds and environments
+/build/
+/.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
